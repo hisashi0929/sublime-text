@@ -1,6 +1,11 @@
 *.cache
 *_tmp
 encoding_cache.json
-Package Control.last-run
 Evernote.sublime-settings
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
 
